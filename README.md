@@ -35,5 +35,6 @@ Even though it doesn’t use machine learning, this project demonstrates the cor
 
 👉 In conclusion, this project highlights how sentiment analysis can be done with minimal resources while still delivering valuable insights into customer opinions and feedback 💡..
 OUTPUT :- 
+<img width="775" height="885" alt="Image" src="https://github.com/user-attachments/assets/89a5c3d8-9364-40b1-b732-6c38d3b012e2" />
 
 
